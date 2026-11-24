@@ -25,7 +25,7 @@
 
 ## 📮 Contact
 
-행사나 서비스 문의는 [이메일](mailto:seoultechgrad42@gmail.com) 또는 [홈페이지](https://seoultechgrad42.org), [인스타그램](https://instagram.com/seoultech_grad)로 연락 주세요.
+행사나 서비스 문의는 [이메일](mailto:seoultechgrad42@gmail.com) 또는 [홈페이지](https://seoultechgrad42.org), [인스타그램](https://instagram.com/grad_seoultech)로 연락 주세요.
 
 <div align="center">
 <sub>Made with 💙 by Seoultech 42nd Graduation Committee</sub>
